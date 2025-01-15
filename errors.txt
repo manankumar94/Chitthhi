@@ -1,0 +1,4 @@
+Backend validation of login are not working 
+Frontend validations of register are not working
+name fetch nhi kar rha hai after login
+avatar not set in one time
